@@ -24,7 +24,7 @@ env:
   MANDREL_VERSION: 10.9.8.7 test-build
 # ea - Early Access
 # ga - General Availability
-  JAVA_RELEASE_TYPE: ea
+  JAVA_RELEASE_TYPE: ga
 
 jobs:
   build-and-test:
